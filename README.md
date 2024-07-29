@@ -1,4 +1,4 @@
-# typescript4noobs
+# code4noobs
 
 <p align="center">
   <a><img src="./assets/code4noobs.jpg" alt="Logotipo com o texto Code4Noobs" title="Logotipo com o texto Code4Noobs"></a>
